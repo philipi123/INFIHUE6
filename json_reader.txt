@@ -1,0 +1,1 @@
+{"vorname":"philip","nachname":"lucic","age":18,"klasse":"3AHWII"}
